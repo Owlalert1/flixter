@@ -17,7 +17,7 @@ ActiveRecord::Schema.define(version: 2019_11_07_194028) do
 
   create_table "courses", force: :cascade do |t|
     t.string "title"
-    t.text "descriptiopn"
+    t.text "description"
     t.decimal "cost"
     t.integer "user_id"
     t.datetime "created_at", null: false
