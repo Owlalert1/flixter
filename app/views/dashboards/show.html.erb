@@ -5,9 +5,9 @@
   <% current_user.enrolled_courses.each do |course| %>
     <h3 class="text-center">
       <%= link_to course.title, course_path(course) %>
-    </h3>
     <br />
     <%= image_tag course.image.to_s, class: 'img-fluid' %>
+  </h3>
     <br />
     <div class="row">
       <div class="col-12 col-sm-8">
@@ -25,9 +25,9 @@
   <% current_user.courses.each do |course| %>
     <h3 class="text-center">
       <%= link_to course.title, course_path(course) %>
-    </h3>
     <br />
     <%= image_tag course.image.to_s, class: 'img-fluid' %>
+    </h3>
     <br />
     <div class="row">
       <div class="col-12 col-sm-8">
