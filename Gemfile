@@ -80,7 +80,4 @@ gem 'ranked-model'
 gem 'jquery-ui-rails'
 gem 'font-awesome-rails'
 
-### Home Page:
-![](./app/assets/images/homepage.png)
 
-https://flixter-joe-holley.herokuapp.com/
