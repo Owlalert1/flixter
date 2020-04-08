@@ -2,7 +2,7 @@
 
 # [Flixter](https://flixter-joe-holley.herokuapp.com/)
 
-This is a two sided video streaming market place platform, featuring credit card payment capabilities, user role management, complex user interfaces and advanced database relationships.
+This is a website that allows for instructors to create tutorials.  They can upload photos and videos for content.  Other users can subscribe to the tutorials as well.  Instructors may or may not charge a fee for a specific course.  VideoJS was included for embedding videos, and the jQuery sortable function allows instructors to reorder lessons and sections within courses.
 
 #### Built using:
 - Ruby v2.5.3
@@ -14,6 +14,7 @@ This is a two sided video streaming market place platform, featuring credit card
 - Popper JS
 - Font Awesome
 - Algorithms
+- VideoJS
 
 #### Ruby Gems used:
 
