@@ -3,6 +3,7 @@
 # [Flixter](https://flixter-joe-holley.herokuapp.com/)
 
 This is a website that allows for instructors to create tutorials.  They can upload photos and videos for content.  Other users can subscribe to the tutorials as well.  Instructors may or may not charge a fee for a specific course.  VideoJS was included for embedding videos, and the jQuery sortable function allows instructors to reorder lessons and sections within courses.
+There are two courses available as demo's titled "How to Create a Website from Scratch using WordPress" and "test course".
 
 #### Built using:
 - Ruby v2.5.3
